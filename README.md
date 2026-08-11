@@ -22,6 +22,7 @@ dataset\
         |
         | __ images
         |
+        |
         |__ annotations
 
 _____ test\
